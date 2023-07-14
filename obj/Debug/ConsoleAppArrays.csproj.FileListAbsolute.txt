@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-5\ConsoleAppArrays\ConsoleAppArrays\bin\Debug\ConsoleAppArrays.exe.config
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-5\ConsoleAppArrays\ConsoleAppArrays\bin\Debug\ConsoleAppArrays.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-5\ConsoleAppArrays\ConsoleAppArrays\bin\Debug\ConsoleAppArrays.pdb
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-5\ConsoleAppArrays\ConsoleAppArrays\obj\Debug\ConsoleAppArrays.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-5\ConsoleAppArrays\ConsoleAppArrays\obj\Debug\ConsoleAppArrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-5\ConsoleAppArrays\ConsoleAppArrays\obj\Debug\ConsoleAppArrays.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-5\ConsoleAppArrays\ConsoleAppArrays\obj\Debug\ConsoleAppArrays.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-5\ConsoleAppArrays\ConsoleAppArrays\obj\Debug\ConsoleAppArrays.pdb
